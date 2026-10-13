@@ -1,0 +1,5 @@
+All Sales: [1500, 2500, 1800, 3200, 4000, 2200, 3500]
+Total Sales: 18700
+Average Sales: 2671.43
+Highest Sale: 4000
+Lowest Sale: 1500
